@@ -1,0 +1,22 @@
+{
+  "name": "learn-playwright",
+  "version": "1.0.0",
+  "description": "Learning playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreroggeri/learn-playwright.git"
+  },
+  "author": "André Roggeri Campos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreroggeri/learn-playwright/issues"
+  },
+  "homepage": "https://github.com/andreroggeri/learn-playwright#readme",
+  "devDependencies": {
+    "playwright": "^1.1.1"
+  }
+}
